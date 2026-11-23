@@ -1,0 +1,11 @@
+{
+  "org": "andfoy",
+  "repo": "winpty-rs",
+  "versions": [
+    {
+      "commit": "1cc115c87a80c1194083e4d16eb2c770eef28438",
+      "tag": "v1.0.6",
+      "parsed_at": "2026-11-23T05:12:03.105700+00:00"
+    }
+  ]
+}
